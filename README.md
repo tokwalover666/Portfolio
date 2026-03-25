@@ -7,9 +7,9 @@ Aspiring game developer with experience in creating innovative and meaningful ga
 [Download My Resume](https://drive.google.com/file/d/1SwonvB4mW-f5Gm1coDXujnWlaQlsIEPv/view?usp=sharing)
 
 ## Projects
+[Link to Game Projects](https://tokwalover666.itch.io/)
 ### Project 1: Beyond The Scene
 - Description: Submitted entry for Beyond Game Jam 2026. Collaborated with a team to create a game that fit the game jam theme. I designed the overall game concept and programmed the game mechanics, communicating closely with the artists to successfully capture the mood of the game.
-- [Link to the game](https://tokwalover666.itch.io/beyond-the-scene)
 <br>
 <img width="700" alt="SS1" src="https://github.com/user-attachments/assets/f4a8838d-1a0f-4a2a-bebb-1a04faf578ed" />
 <img width="700" alt="SS3" src="https://github.com/user-attachments/assets/976c9f36-30d5-44b5-a8fa-909eee49e3d1" />
